@@ -60,6 +60,16 @@ android {
             signingConfig signingConfigs.debug
         }
     }
+
+    flavorDimensions "env"
+    productFlavors {
+        dev {
+            dimension "env"
+        }
+        prod {
+            dimension "env"
+        }
+    }
 }
 
 flutter {

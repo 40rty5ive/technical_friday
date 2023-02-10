@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "408140511339",
+    "project_id": "technical-friday-dev",
+    "storage_bucket": "technical-friday-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408140511339:android:a66883908541b8850a592e",
+        "android_client_info": {
+          "package_name": "com.example.technical_friday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408140511339-eq45qs4ns4kuet71np8u1id9ebcibgk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc5MPTmtkGtwU4q1iNd4LJABMTxWTqlSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408140511339-eq45qs4ns4kuet71np8u1id9ebcibgk4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "408140511339-faunvcep6b9k39b2tn2erfpkucj4tcbu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.technicalFriday"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
